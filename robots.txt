@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dapurpurfs.id/sitemap.xml
+Sitemap: https://dapurpurfs.vercel.app/sitemap.xml
